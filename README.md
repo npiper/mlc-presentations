@@ -5,6 +5,8 @@
 
 The Docker reveal.js container at https://hub.docker.com/r/danidemi/docker-reveal.js/
 
+## Deploy to Heroku
+
 ## Build
 
 ```
