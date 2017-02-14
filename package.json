@@ -4,9 +4,10 @@
   "description": "The HTML Presentation Framework",
   "homepage": "http://lab.hakim.se/reveal-js",
   "subdomain": "revealjs",
+  "main" : "web.js",
   "scripts": {
     "test": "grunt jshint",
-    "start": ""
+    "start": "web.js"
   },
   "author": {
     "name": "Hakim El Hattab",
